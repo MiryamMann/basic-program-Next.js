@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Product Search App – Next.js + Tailwind + Firebase
 
-## Getting Started
+This is a small personal project built to explore and practice the core technologies of **modern web development**, using:
 
-First, run the development server:
+- ✅ [Next.js](https://nextjs.org/) (App Router)
+- ✅ [Tailwind CSS](https://tailwindcss.com/) for UI styling
+- ✅ [Firebase Firestore](https://firebase.google.com/docs/firestore) as a NoSQL backend
+- ✅ Deployed for free on [Vercel](https://vercel.com)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🎯 Project Goal
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The main purpose of this app is **learning** and **experimentation** with:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- File-based routing and client-server interaction in Next.js
+- Tailwind utility-first design
+- Reading data from Firestore and rendering it in a search interface
+- Deploying full-stack apps live using Vercel
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌐 Live Demo
 
-## Learn More
+🟢 [Click here to view the live app](https://YOUR_PROJECT_URL.vercel.app)  
+_(replace this link with your actual deployed Vercel URL)_
 
-To learn more about Next.js, take a look at the following resources:
+## 📦 Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Frontend:** Next.js 15 (App Router)
+- **Styling:** Tailwind CSS
+- **Backend:** Firebase Firestore
+- **Deployment:** Vercel (free tier)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Feel free to explore, fork, and build on top of it.  
+This is just the beginning 😊
